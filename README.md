@@ -7,7 +7,7 @@ Kako pokrenuti projekt:
 * Pokrenuti Apache posluzitelja,
 * Pokrenuti PHP server naredbom php -S localhost:8080 -t web-applikacije-projekt,
 * Pozicionirati se na localhost:8080/index.php u internet pretrazivacu.
-* Loginati se koristeci korisnika i lozinku: 'admin', 'a'
+* Loginati se koristeci korisnika i lozinku: 'admin@gmail.com', 'a'
 
 News content and material is copyright of index.hr and 24sata.hr.
 
